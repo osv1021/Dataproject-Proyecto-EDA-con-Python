@@ -4,7 +4,7 @@
 
 ## 🧠 Objetivo
 
-Este proyecto tiene como propósito aplicar técnicas de análisis exploratorio de datos (EDA) en un conjunto de datos reales provenientes de campañas de marketing telefónico de una institución bancaria portuguesa. El objetivo final es obtener insights que puedan ayudar a entender qué factores influyen en que un cliente contrate un depósito a plazo (`y = yes`).
+Este proyecto tiene como propósito aplicar técnicas de análisis exploratorio de datos (EDA) en un conjunto de datos reales provenientes de campañas de marketing telefónico de una institución bancaria. El objetivo final es obtener insights que puedan ayudar a entender qué factores influyen en que un cliente contrate un depósito a plazo (`y = yes`).
 
 ---
 
